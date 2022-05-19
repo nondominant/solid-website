@@ -1,0 +1,23 @@
+{
+  "name": "solid-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nondominant/solid-website.git",
+  "author": "123name <123@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@hope-ui/solid": "^0.6.0",
+    "@stitches/core": "^1.2.8",
+    "solid-js": "^1.4.1",
+    "solid-transition-group": "^0.0.10"
+  },
+  "devDependencies": {
+    "babel-preset-solid": "^1.4.0",
+    "vite": "^2.9.9",
+    "vite-plugin-solid": "^2.2.6"
+  }
+}
